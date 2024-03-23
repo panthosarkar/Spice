@@ -14,7 +14,7 @@ const Products = ({ data }) => {
                   <p className="card-text">
                     Total amount of calories:{Math.round(item.recipe.calories)} 
                   </p>
-                  <a href="#" className="btn btn-primary">
+                  <a href="/" className="btn btn-primary">
                     Buy
                   </a>
                 </center>
